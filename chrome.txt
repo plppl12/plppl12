@@ -1,0 +1,6 @@
+wget https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_linux64.zip
+wget https://www.slimjetbrowser.com/chrome/files/104.0.5112.102/google-chrome-stable_current_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-browser_112.0.5615.49-0ubuntu0.18.04.1_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-chromedriver_112.0.5615.49-0ubuntu0.18.04.1_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg_112.0.5615.49-0ubuntu0.18.04.1_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg-extra_112.0.5615.49-0ubuntu0.18.04.1_amd64.deb
