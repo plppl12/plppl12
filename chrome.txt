@@ -4,3 +4,5 @@ wget http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-
 wget http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-chromedriver_112.0.5615.49-0ubuntu0.18.04.1_amd64.deb
 wget http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg_112.0.5615.49-0ubuntu0.18.04.1_amd64.deb
 wget http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg-extra_112.0.5615.49-0ubuntu0.18.04.1_amd64.deb
+
+# https://googlechromelabs.github.io/chrome-for-testing/#stable
